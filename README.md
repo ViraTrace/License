@@ -3,7 +3,7 @@ Version 1.0 -  NOVEMBER 10, 2020
 
 Please read this License carefully before downloading this software.  By downloading or using this software, you are agreeing to be bound by the terms of this License.  If you do not or cannot agree to the terms of this License, please do not download or use the software.
 
-1.	General; Definitions.  This License applies to any program or other work which ViraTrace, LLC (“ViraTrace”) makes publicly available and which contains a notice placed by ViraTrace identifying such program or work as "Original Code" and stating that it is subject to the terms of this ViraTrace Public Source License version 2.0 ("License").  As used in this License:
+1.	General; Definitions.  This License applies to any program or other work which ViraTrace, LLC (“ViraTrace”) makes publicly available and which contains a notice placed by ViraTrace identifying such program or work as "Original Code" and stating that it is subject to the terms of this ViraTrace Public Source License version 1.0 ("License").  As used in this License:
 
 1.1	 "Applicable Patent Rights" mean:  (a) in the case where ViraTrace is the grantor of rights, (i) claims of patents that are now or hereafter acquired, owned by or assigned to ViraTrace and (ii) that cover subject matter contained in the Original Code, but only to the extent necessary to use, reproduce and/or distribute the Original Code without infringement; and (b) in the case where You are the grantor of rights, (i) claims of patents that are now or hereafter acquired, owned by or assigned to You and (ii) that cover subject matter in Your Modifications, taken alone or in combination with Original Code.
 
